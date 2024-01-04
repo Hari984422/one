@@ -1,0 +1,117 @@
+{
+  "Merchant": [
+    {
+      "id":1,
+      "name": "Harish",
+      "phone": "12345678",
+      "email": "hari@gmail.com",
+      "gst": "hghf",
+      "password": "1234232"
+    }
+  ]
+  ,
+  
+    "Products": [
+      {
+        "id":2,
+        "name": "Cotton T-Shirt",
+        "brand": "ComfortWear",
+        "category": "Clothing",
+        "cost": 19.99,
+        "description": "A comfortable cotton t-shirt for everyday wear. Available in multiple colors and sizes.",
+        "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSv7q3MaBmhx733LwQbpMW3ggHp0JKPhQD2xxNSLDUMOc1K1GJ15SWqLbmogc1GqRby2EAfH4z7Vh4W3Hw1tGY2PBadnpgGOjk6fP55zgg&usqp=CAE"
+      },
+      {
+        "id":3,
+        "name": "Slim Fit Jeans",
+        "brand": "StyleDenim",
+        "category": "Clothing",
+        "cost": 49.99,
+        "description": "Classic slim fit jeans with a modern design. Perfect for a casual or semi-formal look.",
+        "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSHWMGo5ZOzijTN8OXgX0yhI-KXOxVn9y92UhfSkLlYqLw2K33yoIS22mQySXIMWswvPFoegkliH635rEyCxK93pA4dtmQEOFhlJjen1PA&usqp=CAE"
+      },
+      {
+        "id":4,
+        "name": "Hooded Sweatshirt",
+        "brand": "WarmStyles",
+        "category": "Clothing",
+        "cost": 39.99,
+        "description": "A cozy hooded sweatshirt to keep you warm in chilly weather. Stylish and versatile.",
+        "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQuZJ_uNjr10O2iK4OkVHornJjqfYV2RGEjbTcIv50FUF5MB_ny3c0aoUrmXuwxZNPPJk91EIN7hHnneVpc8hf3_VMNAihyKFNQOUNUCAH24WHBf8tzUb7oUQ&usqp=CAE"
+      },
+      {
+        "id":5,
+        "name": "Leather Jacket",
+        "brand": "UrbanChic",
+        "category": "Clothing",
+        "cost": 89.99,
+        "description": "A stylish leather jacket that adds a touch of sophistication to your wardrobe. Available in black and brown.",
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRZyhIbOyqEQJonGenRWcM-fXajK85MpXawHwycAuBCUtLJvV6QQc3CfRKeYUoGHxCCIk81HuEVoX35k1s5bWbU0tGm51nWwIwH9EFgQkE&usqp=CAE"
+      },
+      {
+        "id":6,
+        "name": "Summer Dress",
+        "brand": "SunshineStyle",
+        "category": "Clothing",
+        "cost": 59.99,
+        "description": "A floral-print summer dress perfect for picnics and outdoor events. Light and breathable fabric.",
+        "img": "https://m.media-amazon.com/images/I/71nkap6IJ2L._AC_UL320_.jpg"
+      },
+      {
+        "id":7,
+        "name": "Running Shoes",
+        "brand": "ActiveRun",
+        "category": "Footwear",
+        "cost": 69.99,
+        "description": "Comfortable running shoes with advanced cushioning technology. eal for your daily jog or workout.",
+        "img": "https://m.media-amazon.com/images/I/71hTmF5ymhL._AC_UL320_.jpg"
+      },
+      {
+        "id":8,
+        "name": "Formal Blouse",
+        "brand": "EleganceCouture",
+        "category": "Clothing",
+        "cost": 34.99,
+        "description": "A classic formal blouse that pairs well with skirts or trousers. Suitable for professional settings.",
+        "img": "https://m.media-amazon.com/images/I/61tM2jn7LQL._AC_UL320_.jpg"
+      },
+      {
+        "id":9,
+        "name": "Denim Jacket",
+        "brand": "CasualDenim",
+        "category": "Clothing",
+        "cost": 79.99,
+        "description": "A classic denim jacket that never goes out of style. Perfect for casual and layered looks.",
+        "img": "https://m.media-amazon.com/images/I/61JWiBBo9cL._AC_UL320_.jpg"
+      },
+      {
+        "id":10,
+        "name": "Sneakers",
+        "brand": "StreetStyle",
+        "category": "Footwear",
+        "cost": 49.99,
+        "description": "Trendy sneakers with a modern design. Great for a la-back urban style.",
+        "img": "https://m.media-amazon.com/images/I/61qQJOFhYcL._AC_UL320_.jpg"
+      },
+      {
+        "id":11,
+        "name": "Winter Coat",
+        "brand": "ColdShield",
+        "category": "Clothing",
+        "cost": 129.99,
+        "description": "A warm and stylish winter coat with faux fur lining. Stay cozy in cold weather.",
+        "img": "https://m.media-amazon.com/images/I/61A1fQ4hpEL._AC_UL320_.jpg"
+      },
+      {
+        "id":12,
+        "name": "Maxi Skirt",
+        "brand": "BohoChic",
+        "category": "Clothing",
+        "cost": 39.99,
+        "description": "Flowy maxi skirt with vibrant patterns. Perfect for a bohemian-inspired look.",
+        "img": "https://m.media-amazon.com/images/I/51bJJ1+hyoL._AC_UL320_.jpg"
+      }
+    ]
+  
+  
+}

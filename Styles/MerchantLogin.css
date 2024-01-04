@@ -1,0 +1,19 @@
+.merchantlogin form{
+    height: 40vh;
+    width: 40vw;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    border: 3px solid rgb(116, 116, 239);
+    box-shadow: 0px 0px 10px gray;
+}
+.merchantlogin  label,button{
+    position: relative;
+    top: 60px;
+    left: 100px;
+}
+.merchantlogin input{
+    height: 25px;
+    width: 200px;
+    margin: 10px;
+}

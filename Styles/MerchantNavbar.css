@@ -1,0 +1,22 @@
+.merchantNavbar{
+    display: flex;
+    height: 100px;
+    background-color: bisque;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 40px;
+}
+.options a{
+    color: crimson;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0px 30px;
+}
+.logo span{
+    color: brown;
+}
+.logo h1{
+    color: crimson;
+    font-style: italic;
+}

@@ -1,0 +1,33 @@
+.merchantsiginup fieldset{
+    height: 400px;
+    width: 400px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border-radius: 30px;
+    transform: translate(400px,100px);
+    background: linear-gradient(70deg,rgb(19, 190, 238),white);
+}
+.merchantsiginup button{
+    padding: 10px 30px;
+    background-color: crimson;
+    color: white;
+    border: none;
+    border-radius: 10px;
+
+}
+.merchantsiginup legend{
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+}
+.merchantsiginup input{
+    width: 200px;
+    height: 30px;
+    margin: 10px;
+    border-radius: 5px;
+    border: .5px solid grey;
+}
+.merchantsiginup{
+    background: linear-gradient(180deg,rgb(81, 81, 244),white);
+    height: 100vh;
+}
